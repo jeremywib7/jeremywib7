@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
-<h3 align="center">An enthusiastic backend software engineer with determination needed to resolve complex backend infrastructure. Possessing effective organisational skills and excellent working knowledge of microservice technologies and having a commitment to keep up to date with the latest developments. In-depth expertise in the implementation, analysis, optimization, troubleshooting and documentation of spring framework.</h3>
+<!-- <h3 align="center">An enthusiastic backend software engineer with determination needed to resolve complex backend infrastructure. Possessing effective organisational skills and excellent working knowledge of microservice technologies and having a commitment to keep up to date with the latest developments. In-depth expertise in the implementation, analysis, optimization, troubleshooting and documentation of spring framework.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremywib7&label=Profile%20views&color=0e75b6&style=flat" alt="jeremywib7" /> </p>
 
