@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/jeremywib7" target="blank"><img src="https://img.shields.io/twitter/follow/jeremywib7?logo=twitter&style=for-the-badge" alt="jeremywib7" /></a> </p>
 
-- 🌱 I’m currently learning **Microservies and authentication**
+- 🌱 I’m currently learning **Golang**
 
-- 🤝 I’m looking for help with **Any Project**
+- 🤝 I’m looking for help with **Java**
 
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **jeremywib7@gmail.com**
+- 📫 Reach me at **jeremywib7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
