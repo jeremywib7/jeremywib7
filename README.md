@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 🤝 I’m looking for help with **Java**
-
 - 📫 Reach me at **jeremywib7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
